@@ -34,6 +34,9 @@ PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_MODEL := GM1901
 PRODUCT_BRAND := OnePlus
 
+# Exclude Aperture in favor of OnePlus Camera
+PRODUCT_NO_CAMERA := true
+
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
