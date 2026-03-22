@@ -1,7 +1,7 @@
-ro.mist.soc=Qualcomm® Snapdragon™ 855 (Octa-core, 7nm, up to 2.84 GHz) , with Qualcomm AI Engine
-ro.mist.battery=3700 mAh (non-removable) Fast Charging (5V 4A)
+ro.mist.soc=Snapdragon™ 855
+ro.mist.battery=3700 mAh
 ro.mist.display=1080 x 2340, 60Hz
-ro.mist.camera= Sony IMX 586 48MP Rear Main + 5MP Rear Secondary 
+ro.mist.camera= Sony IMX 586 48MP + 5MP  
 ro.mist.front= Sony IMX 471 16MP
 ro.mist.platform=SM8150
 ro.mist.screen=6.41 inches, Optic AMOLED
