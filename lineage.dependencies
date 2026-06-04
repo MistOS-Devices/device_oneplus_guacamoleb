@@ -28,12 +28,5 @@
     "target_path": "hardware/oplus",
     "remote": "github",
     "branch": "16"
-  },
-  {
-    "repository": "Codecity001/bionic",
-    "target_path": "bionic",
-    "remote": "github",
-    "branch": "16.2",
-    "override":"true"
   }
 ]
