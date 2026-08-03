@@ -3,30 +3,30 @@
     "repository": "Codecity001/device_oneplus_sm8150-common-1",
     "target_path": "device/oneplus/sm8150-common",
     "remote": "github",
-    "branch": "16"
+    "branch": "17"
   },
   {
     "repository": "Codecity001/android_kernel_oneplus_sm8150",
     "target_path": "kernel/oneplus/sm8150",
     "remote": "github",
-    "branch": "16-c"
+    "branch": "17-c"
   },
   {
     "repository": "Codecity001/vendor_oneplus_sm8150-common-1",
     "target_path": "vendor/oneplus/sm8150-common",
     "remote": "github",
-    "branch": "16"
+    "branch": "17
   },
   {
     "repository": "Codecity001/vendor_oneplus_guacamoleb-1",
     "target_path": "vendor/oneplus/guacamoleb",
     "remote": "github",
-    "branch": "16"
+    "branch": "17"
   },
   {
     "repository": "Codecity001/hardware_oneplus-1",
     "target_path": "hardware/oplus",
     "remote": "github",
-    "branch": "16"
+    "branch": "17"
   }
 ]
